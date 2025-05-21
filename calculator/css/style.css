@@ -1,0 +1,59 @@
+body    {
+    background-image: url('../img/cijfers.jpeg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+ 
+    /* Studentennummer: 91780 */
+}
+
+.container  {
+    width: 600px;
+    /* center the div */
+    margin: 0 auto;
+}
+
+.top-part   {
+    background-color: aqua;
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.bottom-part    {
+
+    background-color: white;
+    padding: 40px;
+}
+
+.bottom-part ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.bottom-part label {
+
+    width: 50%;
+    display: block;
+    font-family: arial;
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.bottom-part select {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.bottom-part input {
+
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}

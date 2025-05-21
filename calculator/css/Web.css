@@ -1,0 +1,33 @@
+body{
+
+background-color: red;
+font-family: "Times New Roman", Times, serif;
+
+
+}
+
+h1 {
+
+color: blue;
+
+}
+
+img {
+
+    width: 210px; /* maakt de breedte meer specifiek */
+    height: 210px; /* maakt de hoogte meer specifiek */
+}
+
+.contact-page   {
+
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+
+
+

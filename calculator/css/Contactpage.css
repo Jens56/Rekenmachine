@@ -1,0 +1,12 @@
+body    {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #FFCB9A;
+}
+
+.contact-page{
+    
+    /* Studentennummer: 91780 */
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}

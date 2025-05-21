@@ -1,0 +1,10 @@
+body{
+
+    background-color: red;
+}
+
+img {
+
+    width: 210px; /* maakt de breedte meer specifiek */
+    height: 210px; /* maakt de hoogte meer specifiek */
+}

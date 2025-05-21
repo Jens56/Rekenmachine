@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style-type: none; /* Verwijdert opsommingstekens */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Zorgt ervoor dat de items naast elkaar staan */
+}
+
+nav ul li {
+    margin: 0; /* Verwijdert marges */
+}
+
+nav ul li a {
+    display: block; /* Zorgt ervoor dat de link als blok wordt weergegeven */
+    color: white; /* Kleur van de tekst */
+    padding: 14px 20px; /* Ruimte binnen de link */
+    text-decoration: none; /* Verwijdert onderstreping */
+}
+
+nav ul li a:hover {
+    background-color: #575757; /* Achtergrondkleur bij hover */
